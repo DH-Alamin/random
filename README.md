@@ -10,4 +10,4 @@ cd random
 
 ls
 
-python3 RANDOM.py
+python RANDOM.py
