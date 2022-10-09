@@ -10,4 +10,4 @@ cd random
 
 ls
 
-python run.py
+python2 run.py
